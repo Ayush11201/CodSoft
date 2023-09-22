@@ -4,8 +4,7 @@ There is a set of tasks that awaits us every new day. Some of them might be inte
 There might be times when many of us struggle to keep a record of what we require. Perhaps some of us are in the habit of using a handwritten to-do list to remind ourselves of the pending things and their deadlines. However, handwritten notes have a higher chance of getting lost or forgotten. Since we are the Python coders, it makes sense to build a To-do list manager application using Tkinter.
 
 simple To-Do list manager GUI application using the Tkinter library in the Python programming language.
-
-# Building a To-Do list application using Tkinter
+* Building a To-Do list application using Tkinter
 
 The procedure of building a To-Do list management application using Tkinter is divided into several steps. These steps are shown below:
 
